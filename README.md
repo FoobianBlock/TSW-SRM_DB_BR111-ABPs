@@ -19,6 +19,7 @@ For use with the PC Editor. The files are in the original file locations.
 - The traction gauge dynamic brake + slip bug is now functional
   - Slipping works as per real-life
   - Dynamic brake should show Lok 2, but this is not implemented and always shows dynamic braking effort
+- Improved reverser lever insertion animation
 - Moved some non-interactable switches to personal taste
 
 #### ABP_SRM_DB_BR111_Cab_B
